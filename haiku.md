@@ -1,6 +1,6 @@
 Hello from Room 4!
-old pond
-frog leaps in
+Old pond
+frog Leaps in
 water's sound
 
 
